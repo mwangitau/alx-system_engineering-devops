@@ -2,3 +2,4 @@
 pwd
 ls
 cd ..
+ls la
