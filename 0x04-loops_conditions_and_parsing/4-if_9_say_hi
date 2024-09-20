@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# displays Best School 10 times but for the 9th iteration, displays Best School and then Hi on a new line
+# Displays "Holberton School" 10 times using a while loop.
+#   On the 9th iteration, displays "Hi" before "Holberton School".
 
 count=0
 
@@ -9,6 +10,6 @@ do
   then
     echo "Hi"
   fi
-  echo "Best School"
+  echo "Holberton School"
   (( count++ ))
 done
