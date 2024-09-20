@@ -1,8 +1,12 @@
 # System Engineering and DevOps - Bash, Scripting, Web Stack/Web Stack Debugging, Networking & Security, CI/CD
 
 This repository contains programs written for the system engineering and DevOps
-track at ALX Software Engineering Programme. The specific list of projects
-contained follows although I have not covered all of them:
+track at ALX Software Engineering. In these projects, I worked with Bash and practiced
+writing Bash scripts to automate tasks. I learned about the OSI model and
+various Linux networking tools. Further, I configured a distributed system -
+two web servers and one load balancer - for deployment of my AirBnB project
+using Nginx, HAProxy, certbot, ufw, and MySQL. The specific list of projects
+contained follows:
 
 * [0x00. Shell, basics](./0x00-shell_basics)
 * [0x01. Shell, permissions](./0x01-shell_permissions)
@@ -33,8 +37,12 @@ contained follows although I have not covered all of them:
 * [0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4)
 * [Command Line for the Win](./command_line_for_the_win)
 
+## Author :black_nib:
+
+* __John G Mwangi__ <[mwangitau](https://github.com/mwangitau)>
 
 ## Acknowledgements :pray:
 
-All work contained in this project was completed as part of the curriculum for
-ALX-Software Engineering Programme
+All work contained in this project was completed as part of the curriculum for ALX Software Engineering. For more information, visit
+[this link](https://intranet.alxswe.com/).
+
