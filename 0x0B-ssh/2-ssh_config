@@ -1,6 +1,6 @@
 # SSH Client Configuration
 Host myserver
-    HostName 35.153.194.9  # Replace with your server's IP address
+    HostName 100.25.37.155  # Replace with your server's IP address
     User ubuntu
     IdentityFile ~/.ssh/school
     PasswordAuthentication no
